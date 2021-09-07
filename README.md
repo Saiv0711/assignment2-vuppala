@@ -15,7 +15,10 @@
     2. Student Union Building is a nearest landmark to the Colden Pound.
     3. Once you find the Student Union building, The colden pound is exactly right side to the building.
 
-
+* Fishing Stick
+* Some Food and drinks
+* Volleyball
+* A boat
 
  
 
