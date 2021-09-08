@@ -22,6 +22,19 @@
 
 [Link](https://github.com/Saiv0711/assignment2-vuppala/blob/main/AboutMe.md)
 
- 
+---
+## Food and Drinks
+
+ The below table shows the number of Food and drinks available and their places with the money.
+
+| **Foods and Drinks** | **Place**    | **Money**  |
+|:---------------------|:------------:|-----------:|
+| coke                 | Maryville    | 1.98$      |
+| Lemonada             | Missouri     | 2.25$      |
+| Cakes                | Kansas       | 3.00$      |
+| pizza                | Texas        | 1.2$       |   
+
+
+
 
 
