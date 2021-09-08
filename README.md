@@ -33,6 +33,12 @@
 | Lemonada             | Missouri     | 2.25$      |
 | Cakes                | Kansas       | 3.00$      |
 | pizza                | Texas        | 1.2$       |   
+---
+## Quotes
+> Histort tells us, The powerful people comes from powerful places. - *KGF*
+
+> Life is all about the secound chance. - *Movie(ABCD2)*
+
 
 
 
